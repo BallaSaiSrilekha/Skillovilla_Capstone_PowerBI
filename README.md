@@ -25,8 +25,7 @@ visualizations, slicers, and data connections for the analysis.
 Include screenshots or images of the dashboard visuals in the document for a clear representation.
 For each question/task outlined in the Power BI Capstone Project, include a section with the following details:
 
-Question Statement:
-State the question/task.
+Question Statement: State the question/task.
 Visualization: Include an image of the corresponding visualization(s) in the dashboard.
 Explanation: Provide a clear and concise explanation of the visual,highlighting key insights and findings.
 Ensure the document is organized, with each section corresponding to a specific question or aspect of the dashboard
